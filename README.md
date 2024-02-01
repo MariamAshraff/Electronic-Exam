@@ -8,3 +8,4 @@ I recently completed an Electronic Exam project utilizing an AVR Microcontroller
 - TIMER1
 - LCD
 - Keypad
+![Screenshot_6](https://github.com/MariamAshraff/Electronic-Exam/assets/118696706/0d873345-d78f-4077-833b-e94cc4a1a2df)
